@@ -1,0 +1,4 @@
+graft src/darren
+graft docs
+include *.rst
+global-exclude *.pyc
